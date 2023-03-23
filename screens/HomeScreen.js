@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import React from 'react';
 import {View, Text, StyleSheet, FlatList, Alert, SafeAreaView} from 'react-native';
 import {ListItem} from 'react-native-elements';
 import axios from 'axios';
